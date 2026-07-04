@@ -67,8 +67,12 @@ Never fight alone again.
 - **Clone Manager** — Pull up a menu showing all your active clones and their status.
 - **Desummon Clones** — Recall every clone you've got, for free.
 
+![Clones](images/superf1cial_clones.png)
+
 ### ✨ Miracles
 A rare technique built entirely around luck and second chances. Miracle-holders passively build up **Miracle charges** — for example, just being near a newborn baby animal can grant one — and when you're about to take a hit that would otherwise kill you, a Miracle is automatically spent to pull you back from the brink instead.
+
+![Miracles](images/miracles_cheeks.png)
 
 ### 🔥 Disaster Flames (addition)
 - **Scorching Hand** — Coat your hand in cursed flame: your attacks burn enemies over time, and you can even use it to cook food like a portable furnace.
