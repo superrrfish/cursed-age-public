@@ -48,16 +48,6 @@ Bend gravity itself.
 - **Reversal: Field** — Crush everything around you in a field of reversed gravity: enemies get slowed, knocked around, and chipped away with damage over time.
 - **Lapse: Body** — Launch yourself forward and up, ignoring fall damage while you're moving.
 
-### 💊 Pain Killer
-A support technique built around cleansing and stabilizing.
-- **Stabilize (Self)** — Draw a glowing star across your own chest to purge every negative effect on you.
-- **Stabilize (Target)** — Do the same for an ally at range.
-
-### 🍬 Sugar Manipulation
-Turn your own body into a candy factory.
-- **Sugar Extract** — Slowly convert your hunger into sugar (or, with the right food mods installed, marshmallow sticks and candy instead).
-- **Sugar Infusion** — Inject cursed sugar into a nearby ally, giving them a burst of Speed at the cost of some of your own hunger.
-
 ### 👥 Cloning
 Never fight alone again.
 - **Clone** — Summon a clone of yourself (up to 4 at a time).
@@ -73,6 +63,16 @@ Never fight alone again.
 A rare technique built entirely around luck and second chances. Miracle-holders passively build up **Miracle charges** — for example, just being near a newborn baby animal can grant one — and when you're about to take a hit that would otherwise kill you, a Miracle is automatically spent to pull you back from the brink instead.
 
 ![Miracles](images/miracles_cheeks.png)
+
+### 💊 Pain Killer
+A support technique built around cleansing and stabilizing.
+- **Stabilize (Self)** — Draw a glowing star across your own chest to purge every negative effect on you.
+- **Stabilize (Target)** — Do the same for an ally at range.
+
+### 🍬 Sugar Manipulation
+Turn your own body into a candy factory.
+- **Sugar Extract** — Slowly convert your hunger into sugar (or, with the right food mods installed, marshmallow sticks and candy instead).
+- **Sugar Infusion** — Inject cursed sugar into a nearby ally, giving them a burst of Speed at the cost of some of your own hunger.
 
 ### 🔥 Disaster Flames (addition)
 - **Scorching Hand** — Coat your hand in cursed flame: your attacks burn enemies over time, and you can even use it to cook food like a portable furnace.
