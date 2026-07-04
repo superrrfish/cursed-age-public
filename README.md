@@ -1,3 +1,4 @@
+![Banner](images/cursed_age_render_4k.png)
 # Cursed Age
 
 **Cursed Age** is a custom Jujutsu Kaisen-inspired Minecraft mod, purpose-built to power the **[Cursed Age](https://cursedage.net)** server — adding new Cursed Techniques, progression systems, and factions on top of the **[Sorcery Age](https://www.curseforge.com/minecraft/mc-mods/sorcery-age)** mod.
